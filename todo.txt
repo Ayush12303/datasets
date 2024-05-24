@@ -1,0 +1,12 @@
+Data Integration
+Data Modeling
+Data Quality
+Data Pipelines
+Big Data Processing
+Data Warehousing vs. Data Lake
+ETL/Workflow
+Data Modeling: Schema Design
+Nosql database
+CI/CD Pipelines
+Governance/Security
+Machine Learning Basics
